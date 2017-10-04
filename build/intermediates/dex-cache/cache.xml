@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\IBM4a\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\IBM4a\app\build\intermediates\pre-dexed\debug\classes-7f69cad315ef57c7d7c78dfb87561e178e4a9e69.jar" />
+    </item>
+    <item
+        jar="D:\IBM4a\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\IBM4a\app\build\intermediates\pre-dexed\debug\classes-ac829108ca2a85ad839cbb036a3b4c4da71e758c.jar" />
+    </item>
+    <item
+        jar="D:\IBM4a\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\IBM4a\app\build\intermediates\pre-dexed\debug\classes-3cf3a505a672b10d5ef96f2f6a4744ad15e3bd22.jar" />
+    </item>
+
+</items>
